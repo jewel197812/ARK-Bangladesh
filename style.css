@@ -1,0 +1,13 @@
+body {
+    font-family: 'Inter', sans-serif;
+    background-color: #f9f9f9;
+}
+.text-ark-green {
+    color: #1a5e3d;
+}
+.bg-ark-green {
+    background-color: #1a5e3d;
+}
+.bg-ark-light-green {
+    background-color: #e6f7ec;
+}
